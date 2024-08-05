@@ -1,0 +1,41 @@
+html {
+    font-family: open sans, sans-serif;
+    font-size: 13px;    
+    background-color: #202225;
+    color: #dcddde;
+}
+
+a:link {
+    color: #dcddde;
+    text-decoration: none;
+  }
+
+a:visited {
+    color: #dcddde;
+    text-decoration: none;
+  } 
+
+  a:hover {
+    color: rgb(202, 39, 39);
+    text-decoration: none;
+  }
+
+p[value="1"] {
+    text-align: left;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.center-text {
+    text-align: center;
+}
+
+#colored-titles {
+    color:#dcddde;
+}
+
+#colored-paragraphs {
+    color:#dcddde
+}
