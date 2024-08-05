@@ -1,8 +1,17 @@
 html {
     font-family: open sans, sans-serif;
     font-size: 13px;    
-    background-color: #202225;
+    background-color: #161717;
     color: #dcddde;
+}
+
+header {
+    text-align: center;
+    font-size: 12px;
+    font-family: Trebuchet MS;
+    background-color: #2f3136;
+    padding: 10px;
+
 }
 
 a:link {
@@ -38,4 +47,18 @@ p[value="1"] {
 
 #colored-paragraphs {
     color:#dcddde
+}
+
+.links {
+    background-color: #2f3136;
+}
+
+#movie {
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+    margin-left: 980px;
+    margin-top: 2%;
+    background-color: #2f3136;
+    border: 3px solid rgb(255, 255, 255);
 }
